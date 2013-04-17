@@ -1,0 +1,16 @@
+# Compute the number of feet corresponding to a number of miles.
+
+###################################################
+# Miles to feet conversion formula
+def mile2feet (miles):
+     feet = miles * 5280
+     return feet        
+# Student should enter statement on the next line.
+print mile2feet(13)
+
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#68640
